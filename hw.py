@@ -1,6 +1,4 @@
 print("Hello world!")
 
-a = 0
-
-if a == 0:
-    print("corr")
+for i in range (0, 5):
+    print (i)
